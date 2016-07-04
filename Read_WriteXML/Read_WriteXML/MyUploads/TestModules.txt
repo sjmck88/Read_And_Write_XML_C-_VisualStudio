@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Modules>
+	<Module>
+		<Name>Maths</Name>
+		<Code>100</Code>
+	</Module>
+	<Module>
+		<Name>English</Name>
+		<Code>100</Code>
+	</Module>
+	<Module>
+		<Name>Biology</Name>
+		<Code>100</Code>
+	</Module>
+</Modules>

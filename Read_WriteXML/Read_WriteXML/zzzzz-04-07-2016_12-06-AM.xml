@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Modules>
+	<Module>
+		<ModuleNumber>101</ModuleNumber>
+		<ModuleName>Maths</ModuleName>
+	</Module>
+	<Module>
+		<ModuleNumber>202</ModuleNumber>
+		<ModuleName>Databases</ModuleName>
+	</Module>
+	<Module>
+		<ModuleNumber>303</ModuleNumber>
+		<ModuleName>Software</ModuleName>
+	</Module>
+</Modules>
